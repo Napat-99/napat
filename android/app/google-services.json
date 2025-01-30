@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "820027671017",
+    "firebase_url": "https://dbartists.firebaseio.com",
+    "project_id": "dbartists",
+    "storage_bucket": "dbartists.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820027671017:android:9198688ce9615084bc4b78",
+        "android_client_info": {
+          "package_name": "com.example.finalproject_napat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820027671017-hp9k73i8s834gpdvbh7i8tnmg3sbamcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCT1zrxPHxzgT7wR0DY2odsZ_91UXJZhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820027671017-hp9k73i8s834gpdvbh7i8tnmg3sbamcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820027671017:android:c9f51312fccfdea1bc4b78",
+        "android_client_info": {
+          "package_name": "com.example.knowcryptobysw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820027671017-hp9k73i8s834gpdvbh7i8tnmg3sbamcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCT1zrxPHxzgT7wR0DY2odsZ_91UXJZhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820027671017-hp9k73i8s834gpdvbh7i8tnmg3sbamcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
